@@ -114,12 +114,38 @@ P/E * MP/BV < 22.5
 
 ## Lesson 6 – Bond 
 
-Bond important terminology – 
+Bond is nothing but a loan.
 
-Par value – 
+Simple Example - 
+A corporation wants to build a new headquarters. It requires $500,000,000 to do so. The corporation goes to a Bank for the loan. After evaluating the financial health of the corporation, bank decides to give the corporation a loan. The bank creates 500,000 bonds worth $1000 for a term of 30 years with an interest rate of 5%. 
 
-Coupon Rate – Interest paid on par value
+| Bond          |               | 
+| ------------- |:-------------:| 
+| Par Value     | $ 1000        | 
+| Term	        | 30 Years      |  
+| Coupon Rate   | 5%            |
 
-Interests are paid twice a year.
+Bank sells these bonds to investors for $1005. The $5 difference between the bond's par value and selling price is called Underwriter's fee and that's how the bank makes money. Investors get the Coupon Rate on the Par value of the bond per year. In this example, the investors would recieve $ 50 per year for 30 years. After 30 years the bond **matures** and the investor gets the Par Value of $1000 back. The coupon payments on Bonds are generally made twice a year.
 
-You get the par value back after the bond matures. 
+Bonds are issues by corporations and goverments.
+
+Federal Government bonds are zero risk bonds. (They can simply print more money to fulfill the bond obligations.)
+
+Risks Associated with Bonds - 
+1. Company or Government Failure
+2. Changes in Interest Rates
+3. Inflation
+
+Order of Equity distribution in the case of Corporate Liquidations/Failure - 
+1. Bond holders
+2. Preferred Share holders
+3. Common Share holders
+
+Why investing in Bonds might be lucrative - 
+
+|                                      |   2007        |   2009       | 
+|:------------------------------------ |:-------------:|:------------:|
+| 30 Year Federal Bond Coupon Rate     |  5%           |  2.83%       |
+| Dow Jones Ind Average Return	       | 3.7%          |  6.7%        |
+
+Let's say you bought a 30 year Federal Bond in 2007 for $1005. In two years the Coupon Rate on a 30 year Federal Bond fell to 2.83%, but the bond you are holding has a 5% Coupon Rate. The value for this bond is now $1418. If you choose to sell this bond, you would make 413 + 100 (Coupon payments for 2 years). That's $ 513 return on $1005 investment.
