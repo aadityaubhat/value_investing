@@ -149,3 +149,25 @@ Why investing in Bonds might be lucrative -
 | Dow Jones Ind Average Return	       | 3.7%          |  6.7%        |
 
 Let's say you bought a 30 year Federal Bond in 2007 for $1005. In two years the Coupon Rate on a 30 year Federal Bond fell to 2.83%, but the bond you are holding has a 5% Coupon Rate. The value for this bond is now $1418. If you choose to sell this bond, you would make 413 + 100 (Coupon payments for 2 years). That's $ 513 return on $1005 investment.
+
+## Lesson 7 – Components of a Bond 
+
+1.**Par Value/ Face Value** - Par value is the amount you receive when the bond matures.
+2.**Coupon Rate** - A coupon rate is the yield paid by Bond. The coupon rate is simply just the annual coupon payments paid by the issuer relative to the bond's face or par value.
+
+Example - 
+If you buy a 30 year bond with Par Value $1000 and Coupon Rate of 5%. You would receive $50 (Coupon Payments) Annually for 30 years, and $1000 (Par Value) after 30 years. 
+
+Market Value variation of Bonds - 
+As the interest rate changes in the market, the market price of the bond also changes. If the interest rate increases, the price of the bond decreases, and vice-versa. The price of the bond also depends on the time until maturity of the bond. As time progresses, the bond's market value approaches it's Par Value.
+
+
+Example - 
+The following table explains the Price Variation of a **30 year bond with Par Value of $1000 and Coupon Rate of 5%***.
+The column 1 shows the time progression, column 2 shows the Market Price of the bond in the case of higher market Interest Rate of 6%, column 3 shows the Market Price of the bond in the case of lower market Interest Rate of 4%.
+
+|            |   Case 1 - IR = 6%   |   Case 2 - IR = 4%    | 
+|:---------- |:-------------:|:------------:|
+| 5 Years    |  871        |  1157       |
+| 15 Years	 | 902|  1112      |
+| 29 Years	 | 990        |  1010       |
