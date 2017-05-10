@@ -171,3 +171,14 @@ The column 1 shows the time progression, column 2 shows the Market Price of the 
 | 5 Years    |  871        |  1157       |
 | 15 Years	 | 902|  1112      |
 | 29 Years	 | 990        |  1010       |
+
+## Lesson 8 - Bond Valuation and Yield to Maturity
+
+**Simple Interest Valuation Methods -**
+
+1. Coupon Yield = 1 years coupon payments / Par Value
+2. Current Yield = 1 years coupon payments / Price
+
+Current yield is applicable when you are buying a bond which has been in market for some time. If for a bond, market price == Par value, then Current Yield == Coupon Yield. Current value does not take in consideration the profit or loss that occurs when the bond matures, due the difference between Par Value and Market Price.
+
+**Compound Interest Valuation Method -**
