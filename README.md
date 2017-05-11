@@ -179,6 +179,25 @@ The column 1 shows the time progression, column 2 shows the Market Price of the 
 1. Coupon Yield = 1 years coupon payments / Par Value
 2. Current Yield = 1 years coupon payments / Price
 
-Current yield is applicable when you are buying a bond which has been in market for some time. If for a bond, market price == Par value, then Current Yield == Coupon Yield. Current value does not take in consideration the profit or loss that occurs when the bond matures, due the difference between Par Value and Market Price.
+Current yield is applicable when you are buying a bond which has been in market for some time. If for a bond, market price is equal to Par value, then Current Yield will be equal to Coupon Yield. Current value does not take in consideration the profit or loss that occurs when the bond matures, due the difference between Par Value and Market Price.
 
 **Compound Interest Valuation Method -**
+
+While using Compound Interest for Bond Valuation, we assume that the coupon payments from the Bond can be invested in some other investment for the same interest rate. 
+
+Approx Yield to Maturity = ![YTM Formula](http://mathurl.com/k45xak4.png)
+
+Yield to Maturity Variation Example
+
+Suppose we are buying a $1000 Bond which has 15 years left on it's term and it pays coupon payment of $50 semi annually, the Yield to Maturity of this bond depends on the price we pay for the bond.
+
+
+| |Price = 1200 | Price = 1000 | Price = 800|
+|--|--|--|--|
+|Coupon Payments assuming compound interest | 1098 | 1098| 1098|
+|Par Gain/ Loss | -200 | 0 | 200|
+|Total Yield | 898 | 1098 | 1298 |
+|Yield to Maturity| 3.3% | 5.0% | 7.2%|
+
+## Lesson 9 - Stock Market
+
