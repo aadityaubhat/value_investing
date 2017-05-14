@@ -201,3 +201,16 @@ Suppose we are buying a $1000 Bond which has 15 years left on it's term and it p
 
 ## Lesson 9 - Stock Market
 
+**Order types -**
+
+1. **Market Buy/ Sell Order** - Buy or sell stock at a current bid ask price.
+2. **Limit Buy/Sell Order** - Buy or sell stock at a target price or better. These orders might not execute if the stock doesn't reach the target price. Limit Buy/Sell Orders are a part of 'Buy Low, Sell High' statergy.
+3. **Stop Loss Buy/Sell Order** - Buy or Sell stock if the price crosses a specified price. Stop loss orders trigger a market order once the stop price is reached. Stop Sell Orders are very common, they are used to protect against the further loss. Stop Buy Orders are used in 'Buy High, Sell Higher' strategies. The trader using Stop Buy Order hopes to gain if momentum gains on a particular stock.
+4. **Stop Limit Buy/Sell Order** - Stop Limit Orders will trigger a specified limit order when the stop price is met. This may be used to limit the price your trade will execute for after the stop is triggered, but there is risk that it will not execute if the stock moves past it.
+4. **Trailing Sell Stop Order** - A sell trailing stop order sets the stop price at a fixed amount below the market price with an attached "trailing" amount. As the market price rises, the stop price rises by the trail amount, but if the stock price falls, the stop loss price doesn't change, and a market order is submitted when the stop price is hit.
+
+
+## Lesson 10 - FED
+What is Fedral Reserve - 
+What does FED do - 
+How does FED change market conditions - 
